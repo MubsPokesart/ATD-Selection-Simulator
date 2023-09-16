@@ -11,8 +11,8 @@ Libraries: random, csv, statistics
 ## Overview
 
 ### Main Idea
-The whole idea of this program is that it's aimed to simulate the solo drafting of a team of 5-10 players. it utilizes baseline fit checks, a database of previous draft positions, and weighted randomness to simulate what players would be available for a person in a Historical NBA draft similar to the ones hosted in the [Historical NBA Drafts Community](
-discord.gg/hdnba) by utilizing their [database of previous drafts]([url](https://docs.google.com/spreadsheets/d/1ts62gSSJd8o2nF6OhpJV1lc_OrIMdMsCo7aLxYT2qRU/edit)https://docs.google.com/spreadsheets/d/1ts62gSSJd8o2nF6OhpJV1lc_OrIMdMsCo7aLxYT2qRU/edit). 
+The whole idea of this program is that it's aimed to simulate the solo drafting of a team of 5-10 players. it utilizes baseline fit checks, a database of previous draft positions, and weighted randomness to simulate what players would be available for a person in a Historical NBA draft similar to the ones hosted in the [Historical NBA Drafts Community]([URL](
+discord.gg/hdnba)) by utilizing their [database of previous drafts]([url](https://docs.google.com/spreadsheets/d/1ts62gSSJd8o2nF6OhpJV1lc_OrIMdMsCo7aLxYT2qRU/edit)https://docs.google.com/spreadsheets/d/1ts62gSSJd8o2nF6OhpJV1lc_OrIMdMsCo7aLxYT2qRU/edit). 
 
 ### How the picking algorithm actually works
 
